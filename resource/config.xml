@@ -5,29 +5,99 @@
         <type>qm-json</type>
         <list>
             <item>
+                <name>四色AV</name>
+                <info>uploaddate:200810</info>
+                <version>0</version>
+                <sign>e23b52729fb5dd758cf63e5aa38cc322</sign>
+                <url>qm-json/qm_63.json</url>
+            </item>
+            <item>
+                <name>久草</name>
+                <info>uploaddate:200811</info>
+                <version>0</version>
+                <sign>16771533e928b69b2f9c5f099da4213f</sign>
+                <url>qm-json/qm_64.json</url>
+            </item>
+            <item>
+                <name>禁漫天堂(域名)</name>
+                <info>uploaddate:200813</info>
+                <version>2020813</version>
+                <sign>9767ba5a93477d38844a1e67125f10f8</sign>
+                <url>qm-json/qm_65.json</url>
+            </item>
+            <item>
+                <name>漫画联合国</name>
+                <info>uploaddate:200813</info>
+                <version>0</version>
+                <sign>918badfeb1ee014ba2d83e5746ce500d</sign>
+                <url>qm-json/qm_66.json</url>
+            </item>
+            <item>
+                <name>亿图美女</name>
+                <info>uploaddate:200813</info>
+                <version>0</version>
+                <sign>e6a3609a12e408242e63a5e31d97676b</sign>
+                <url>qm-json/qm_67.json</url>
+            </item>
+            <item>
+                <name>资源采集</name>
+                <info>uploaddate:200822</info>
+                <version>12</version>
+                <sign>f2be444997aba2a8fcbf4a11f148b8ea</sign>
+                <url>qm-json/qm_69.json</url>
+            </item>
+            <item>
+                <name>中文成人文学网</name>
+                <info>uploaddate:200823</info>
+                <version>20200823</version>
+                <sign>5f8e99bfb63a48365ac4601212d1baf0</sign>
+                <url>qm-json/qm_70.json</url>
+            </item>
+            <item>
+                <name>四虎影院</name>
+                <info>uploaddate:200827</info>
+                <version>0</version>
+                <sign>723819b7cedac5cc2c02c757a6490666</sign>
+                <url>qm-json/qm_71.json</url>
+            </item>
+            <item>
+                <name>plane</name>
+                <info>uploaddate:200827</info>
+                <version>0</version>
+                <sign>0b90110d495763d538e44fec0ac74283</sign>
+                <url>qm-json/qm_72.json</url>
+            </item>
+            <item>
+                <name>狠狠干</name>
+                <info>uploaddate:200828</info>
+                <version>0</version>
+                <sign>e415896ebf024883091f222ce49dcff8</sign>
+                <url>qm-json/qm_73.json</url>
+            </item>
+            <item>
                 <name>猫咪(更新)</name>
-                <info>uploaddate:2008008</info>
+                <info>uploaddate:200808</info>
                 <version>0</version>
                 <sign>621b90a30106fe772cec4606236c5cbf</sign>
                 <url>qm-json/qm_61.json</url>
             </item>
             <item>
                 <name>影视api(更新)</name>
-                <info>uploaddate:2008008 update:200809</info>
+                <info>uploaddate:200808 update:200809</info>
                 <version>20200808</version>
                 <sign>8e501e61e37e7ceaf716d0d98667ecb3</sign>
                 <url>qm-json/qm_62.json</url>
             </item>
             <item>
                 <name>BAAX</name>
-                <info>uploaddate:2008008</info>
+                <info>uploaddate:200808</info>
                 <version>0</version>
                 <sign>5bf2101e3082cb2d476aa0fb6708226c</sign>
                 <url>qm-json/qm_59.json</url>
             </item>
             <item>
                 <name>影视api</name>
-                <info>uploaddate:2008008</info>
+                <info>uploaddate:200808</info>
                 <version>20200807</version>
                 <sign>9e07457ff3c180f333e0dd56c631bfc9</sign>
                 <url>qm-json/qm_60.json</url>
