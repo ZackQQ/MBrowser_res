@@ -5,6 +5,160 @@
         <type>qm-json</type>
         <list>
             <item>
+                <name>1080影视</name>
+                <info>uploaddate:200808 update:200927</info>
+                <version>20200901</version>
+                <sign>007815643bc054226cd93b2f570f47a5</sign>
+                <url>qm-json/qm_74.json</url>
+            </item>
+            <item>
+                <name>天乐动漫</name>
+                <info>uploaddate:200808 update:200927</info>
+                <version>20200901</version>
+                <sign>ddaec7484dd04382ac02694756ff5777</sign>
+                <url>qm-json/qm_75.json</url>
+            </item>
+            <item>
+                <name>青春硬盘</name>
+                <info>uploaddate:200808 update:200927</info>
+                <version>0</version>
+                <sign>ea90528e258a9ec22f11c5a560158650</sign>
+                <url>qm-json/qm_76.json</url>
+            </item>
+            <item>
+                <name>水蜜桃</name>
+                <info>uploaddate:200808 update:200927</info>
+                <version>0</version>
+                <sign>8a2f6c7c3e75d8896699cc38f6e1a826</sign>
+                <url>qm-json/qm_77.json</url>
+            </item>
+            <item>
+                <name>资源采集</name>
+                <info>uploaddate:200822 update:200927</info>
+                <version>20200921</version>
+                <sign>f2be444997aba2a8fcbf4a11f148b8ea</sign>
+                <url>qm-json/qm_78.json</url>
+            </item>
+            <item>
+                <name>期刊杂志</name>
+                <info>uploaddate:200808 update:200927</info>
+                <version>2</version>
+                <sign>584fad114521a5ad8f6a9dea7b5573bf</sign>
+                <url>qm-json/qm_79.json</url>
+            </item>
+            <item>
+                <name>香蕉视频</name>
+                <info>uploaddate:200808 update:200927</info>
+                <version>0</version>
+                <sign>4055358a678de7e081862c3ade71818a</sign>
+                <url>qm-json/qm_80.json</url>
+            </item>
+            <item>
+                <name>提姆正妹</name>
+                <info>uploaddate:200808 update:200927</info>
+                <version>0</version>
+                <sign>c944fb3155e3f2a14ece0edeb3622258</sign>
+                <url>qm-json/qm_81.json</url>
+            </item>
+            <item>
+                <name>电影盒子</name>
+                <info>uploaddate:200808 update:200927</info>
+                <version>20200914</version>
+                <sign>b3f9e0608682b8a30460935689808eda</sign>
+                <url>qm-json/qm_82.json</url>
+            </item>
+            <item>
+                <name>慢车车库</name>
+                <info>uploaddate:200808 update:200927</info>
+                <version>0</version>
+                <sign>637ce75e667e4b633edc6af6650dd792</sign>
+                <url>qm-json/qm_83.json</url>
+            </item>
+            <item>
+                <name>百年漫画</name>
+                <info>uploaddate:200808 update:200927</info>
+                <version>20200906</version>
+                <sign>4789c30d8c39cfd09322eac312c84eea</sign>
+                <url>qm-json/qm_84.json</url>
+            </item>
+            <item>
+                <name>漫客栈漫画</name>
+                <info>uploaddate:200808 update:200927</info>
+                <version>20200909</version>
+                <sign>2d4944e685e754ac7a96e742e0de472e</sign>
+                <url>qm-json/qm_85.json</url>
+            </item>
+            <item>
+                <name>超星球(CHAOSPACE)</name>
+                <info>uploaddate:200808 update:200927</info>
+                <version>1</version>
+                <sign>a6aa87f3983c7e55fae0397c2f5177d1</sign>
+                <url>qm-json/qm_87.json</url>
+            </item>
+            <item>
+                <name>梅花影视</name>
+                <info>uploaddate:200808 update:200927</info>
+                <version>20200904</version>
+                <sign>3e044474ec63b1c6bf32fad8d74d9631</sign>
+                <url>qm-json/qm_88.json</url>
+            </item>
+            <item>
+                <name>TikTok推荐</name>
+                <info>uploaddate:200808 update:200927</info>
+                <version>20200906</version>
+                <sign>89a3778584f32686ee6f4503741a6352</sign>
+                <url>qm-json/qm_89.json</url>
+            </item>
+            <item>
+                <name>卧龙影视</name>
+                <info>uploaddate:200525 update:200927</info>
+                <version>12</version>
+                <sign>a4253c55d423ec3383e35077bee76d35</sign>
+                <url>qm-json/qm_90.json</url>
+            </item>
+            <item>
+                <name>39漫画</name>
+                <info>uploaddate:200808 update:200927</info>
+                <version>20200905</version>
+                <sign>c76bb7b8e8c8b13947850e376fa4eb2f</sign>
+                <url>qm-json/qm_91.json</url>
+            </item>
+            <item>
+                <name>爱爱客</name>
+                <info>uploaddate:200808 update:200927</info>
+                <version>20200905</version>
+                <sign>6a8c85417a610c59fa2bf74010362ee4</sign>
+                <url>qm-json/qm_92.json</url>
+            </item>
+            <item>
+                <name>小小影视</name>
+                <info>uploaddate:200808 update:200927</info>
+                <version>4</version>
+                <sign>844065432b6997e9e2fda701ffc504fc</sign>
+                <url>qm-json/qm_94.json</url>
+            </item>
+            <item>
+                <name>293影院</name>
+                <info>uploaddate:200903 update:200927</info>
+                <version>20200903</version>
+                <sign>cf5a9e15452ba1021185efdad1a214e3</sign>
+                <url>qm-json/qm_95.json</url>
+            </item>
+            <item>
+                <name>图意网(移动网络屏蔽)</name>
+                <info>uploaddate:200902 update:200927</info>
+                <version>20500902</version>
+                <sign>64522829585d0cd3352a7a3311bb8baa</sign>
+                <url>qm-json/qm_96.json</url>
+            </item>
+            <item>
+                <name>多多漫画</name>
+                <info>uploaddate:200831 update:200927</info>
+                <version>20200831</version>
+                <sign>79054a24dd084ef5e5d5abe2c9d2a343</sign>
+                <url>qm-json/qm_97.json</url>
+            </item>
+            <item>
                 <name>四色AV</name>
                 <info>uploaddate:200810</info>
                 <version>0</version>
@@ -38,13 +192,6 @@
                 <version>0</version>
                 <sign>e6a3609a12e408242e63a5e31d97676b</sign>
                 <url>qm-json/qm_67.json</url>
-            </item>
-            <item>
-                <name>资源采集</name>
-                <info>uploaddate:200822</info>
-                <version>12</version>
-                <sign>f2be444997aba2a8fcbf4a11f148b8ea</sign>
-                <url>qm-json/qm_69.json</url>
             </item>
             <item>
                 <name>中文成人文学网</name>
@@ -248,13 +395,6 @@
                 <version>6</version>
                 <sign>7f6f9be934c340246cb5d50af5f8fa9e</sign>
                 <url>qm-json/qm_16.json</url>
-            </item>
-            <item>
-                <name>卧龙影视(官方版)-0525</name>
-                <info>uploaddate:200525</info>
-                <version>6</version>
-                <sign>a4253c55d423ec3383e35077bee76d35</sign>
-                <url>qm-json/qm_17.json</url>
             </item>
             <item>
                 <name>聚合直播</name>
